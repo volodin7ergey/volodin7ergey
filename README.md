@@ -73,7 +73,7 @@ Frontend-разработчик с 4+ годами опыта. Работал н
 </tr>
 </table>
 
-<h3>Инструменты</h3>
+<h3>Инструменты сборки и тестирования</h3>
 <table>
 <tr>
 <td align="center" width="100">
@@ -84,11 +84,6 @@ Frontend-разработчик с 4+ годами опыта. Работал н
 <td align="center" width="100">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-original.svg" width="40"/><br>
 <sub><b>Vitest</b></sub>
-</td>
-
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br>
-<sub><b>Git</b></sub>
 </td>
 </tr>
 </table>
