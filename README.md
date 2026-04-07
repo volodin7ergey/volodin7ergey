@@ -90,8 +90,6 @@ Frontend-разработчик с <b>4+ годами опыта</b>.
 </tr>
 </table>
 
-
-
 <h3>Сборка и тестирование</h3>
 <table>
 <tr>
@@ -105,10 +103,6 @@ Frontend-разработчик с <b>4+ годами опыта</b>.
 <sub><b>Vitest</b></sub>
 </td>
 
-<td align="center" width="110">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/><br>
-<sub><b>Git</b></sub>
-</td>
 </tr>
 </table>
 
@@ -132,6 +126,27 @@ Frontend-разработчик с <b>4+ годами опыта</b>.
 <sub><b>UniSender</b></sub>
 </td>
 
+</tr>
+</table>
+
+<h3>Контроль версий и репозитории</h3>
+
+<table>
+<tr>
+  <td align="center" width="110">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/><br>
+    <sub><b>Git</b></sub>
+  </td>
+
+  <td align="center" width="110">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/><br>
+    <sub><b>GitHub</b></sub>
+  </td>
+
+  <td align="center" width="110">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="45"/><br>
+    <sub><b>GitLab</b></sub>
+  </td>
 </tr>
 </table>
 
