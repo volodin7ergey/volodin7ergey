@@ -10,8 +10,48 @@
 
 <h2>Обо мне</h2>
 
-Frontend-разработчик с 4+ годами опыта. Работал над проектами для Альфа-Банка, InDrive и Splat Global. Последний год специализируюсь на разработке отчетов, дашбордов и интеграций для Bitrix24.
+<p>
+Frontend-разработчик с <b>4+ годами опыта</b>.
+</p>
 
+<p>
+Работал над проектами для:
+</p>
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="120">
+<a href="https://alfabank.ru" target="_blank">
+  <img src="media/alfa-bank.icon.png" width="50"><br>
+  <sub><b>Альфа-Банк</b></sub>
+</a>
+</td>
+
+<td align="center" width="120">
+<a href="https://indrive.com" target="_blank">
+  <img src="media/indrive-icon.svg" width="50"><br>
+  <sub><b>InDrive</b></sub>
+</a>
+</td>
+
+<td align="center" width="120">
+<a href="https://splat.global" target="_blank">
+  <img src="media/splat-global.icon.png" width="50"><br>
+  <sub><b>Splat Global</b></sub>
+</a>
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<p>
+Последний год занимаюсь разработкой <b>инструментов аналитики, дашбордов и интеграций для Bitrix24 </b>.
+</p>
 <hr>
 
 <h2>Чем занимаюсь</h2>
@@ -100,7 +140,6 @@ Frontend-разработчик с 4+ годами опыта. Работал н
 </td>
 </tr>
 </table>
-
 
 <hr>
 
