@@ -163,28 +163,28 @@ Frontend-разработчик с <b>4+ годами опыта</b>.
 
 <li>
 <b>Контроль трудозатрат и загрузки команды</b> — прозрачная аналитика по задачам сотрудников, выявление перерасхода времени и проблемных задач.<br>
-<a href="https://github.com/volodin7ergey/bitrix24-time-tracking">🔗 Перейти к проекту</a>
+<a href="https://github.com/volodin7ergey/bitrix24-time-tracking" target="_blank">🔗 Перейти к проекту</a>
 </li>
 
 <br>
 
 <li>
 <b>Аналитика продаж и прибыли по компаниям</b> — суммарные показатели сделок, прибыль и эффективность работы с клиентами за выбранный период.<br>
-<a href="https://github.com/volodin7ergey/bitrix24-company-revenue">🔗 Перейти к проекту</a>
+<a href="https://github.com/volodin7ergey/bitrix24-company-revenue" target="_blank">🔗 Перейти к проекту</a>
 </li>
 
 <br>
 
 <li>
 <b>Рейтинг сотрудников отдела продаж</b> — сравнительная таблица показателей по продажам, рост или снижение результатов, наглядная визуализация.<br>
-<a href="https://github.com/volodin7ergey/bitrix24-employee-sales-analytics">🔗 Перейти к проекту</a>
+<a href="https://github.com/volodin7ergey/bitrix24-employee-sales-analytics" target="_blank">🔗 Перейти к проекту</a>
 </li>
 
 <br>
 
 <li>
 <b>Контроль качества данных</b> — поиск проблемных сущностей, где отсутствуют ключевые поля, с возможностью фильтрации по типу и периоду.<br>
-<a href="https://github.com/volodin7ergey/bitrix24-data-quality-report">🔗 Перейти к проекту</a>
+<a href="https://github.com/volodin7ergey/bitrix24-data-quality-report" target="_blank">🔗 Перейти к проекту</a>
 </li>
 
 <br>
