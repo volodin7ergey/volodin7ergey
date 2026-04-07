@@ -94,15 +94,19 @@ Frontend-разработчик с <b>4+ годами опыта</b>.
 <table>
 <tr>
 <td align="center" width="110">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="45"/><br>
-<sub><b>Vite</b></sub>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="45"/><br>
+  <sub><b>Vite</b></sub>
 </td>
 
 <td align="center" width="110">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-original.svg" width="45"/><br>
-<sub><b>Vitest</b></sub>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-original.svg" width="45"/><br>
+  <sub><b>Vitest</b></sub>
 </td>
 
+<td align="center" width="110">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="45"/><br>
+  <sub><b>Jest</b></sub>
+</td>
 </tr>
 </table>
 
