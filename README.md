@@ -25,6 +25,8 @@ Frontend-разработчик с <b>4+ годами опыта</b>.
 </a>
 </td>
 
+
+
 <td align="center" width="120">
 <a href="https://indrive.com" target="_blank">
   <img src="media/indrive-icon.svg" width="50"><br>
@@ -169,28 +171,28 @@ Frontend-разработчик с <b>4+ годами опыта</b>.
 
 <li>
 <b>Контроль трудозатрат и загрузки команды</b> — прозрачная аналитика по задачам сотрудников, выявление перерасхода времени и проблемных задач.<br>
-<a href="https://github.com/volodin7ergey/bitrix24-time-tracking">🔗 Посмотреть кейс</a>
+<a href="https://github.com/volodin7ergey/bitrix24-time-tracking">🔗 Перейти к проекту</a>
 </li>
 
 <br>
 
 <li>
 <b>Аналитика продаж и прибыли по компаниям</b> — суммарные показатели сделок, прибыль и эффективность работы с клиентами за выбранный период.<br>
-<a href="https://github.com/volodin7ergey/bitrix24-company-revenue">🔗 Посмотреть кейс</a>
+<a href="https://github.com/volodin7ergey/bitrix24-company-revenue">🔗 Перейти к проекту</a>
 </li>
 
 <br>
 
 <li>
 <b>Рейтинг сотрудников отдела продаж</b> — сравнительная таблица показателей по продажам, рост или снижение результатов, наглядная визуализация.<br>
-<a href="https://github.com/volodin7ergey/bitrix24-employee-sales-analytics">🔗 Посмотреть кейс</a>
+<a href="https://github.com/volodin7ergey/bitrix24-employee-sales-analytics">🔗 Перейти к проекту</a>
 </li>
 
 <br>
 
 <li>
 <b>Контроль качества данных</b> — поиск проблемных сущностей, где отсутствуют ключевые поля, с возможностью фильтрации по типу и периоду.<br>
-<a href="https://github.com/volodin7ergey/bitrix24-data-quality-report">🔗 Посмотреть кейс</a>
+<a href="https://github.com/volodin7ergey/bitrix24-data-quality-report">🔗 Перейти к проекту</a>
 </li>
 
 <br>
@@ -210,7 +212,7 @@ Frontend-разработчик с <b>4+ годами опыта</b>.
 <h2>Контакты</h2>
 
 <p align="center">
-Всегда рад обсудить ваши идеи, проекты или просто пообщаться о веб-разработке и аналитике:
+Всегда рад обсудить проекты, идеи или поделиться опытом в Bitrix24 и веб-разработке
 </p>
 
 <div align="center" style="margin-top: 10px;">
@@ -222,7 +224,3 @@ Frontend-разработчик с <b>4+ годами опыта</b>.
 <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="50" title="VK">
 </a>
 </div>
-
-<p align="center">
-Открыт к сотрудничеству и новым задачам
-</p>
