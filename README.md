@@ -90,29 +90,7 @@ Frontend-разработчик с <b>4+ годами опыта</b>.
 </tr>
 </table>
 
----
 
-<h3>UI и стили</h3>
-<table>
-<tr>
-<td align="center" width="110">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" width="45"/><br>
-<sub><b>Vuetify</b></sub>
-</td>
-
-<td align="center" width="110">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="45"/><br>
-<sub><b>SASS</b></sub>
-</td>
-
-<td align="center" width="110">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/><br>
-<sub><b>CSS</b></sub>
-</td>
-</tr>
-</table>
-
----
 
 <h3>Сборка и тестирование</h3>
 <table>
@@ -134,7 +112,6 @@ Frontend-разработчик с <b>4+ годами опыта</b>.
 </tr>
 </table>
 
----
 
 <h3>Интеграции и API</h3>
 
