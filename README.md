@@ -1,4 +1,4 @@
-<h1 align="center">Сергей Волoдин 👋</h1>
+<h1 align="center">Володин Сергей 👋</h1>
 
 <h3 align="center">Frontend-разработчик | Bitrix24 и аналитика</h3>
 
