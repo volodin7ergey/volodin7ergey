@@ -71,76 +71,97 @@ Frontend-разработчик с <b>4+ годами опыта</b>.
 <h3>Frontend</h3>
 <table>
 <tr>
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40"/><br>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="45"/><br>
 <sub><b>Vue 3</b></sub>
 </td>
 
-<td align="center" width="100">
-<img src="https://nuxt.com/assets/design-kit/icon-green.svg" width="40"/><br>
+<td align="center" width="110">
+<img src="https://nuxt.com/assets/design-kit/icon-green.svg" width="45"/><br>
 <sub><b>Nuxt 4</b></sub>
 </td>
 
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/><br>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/><br>
 <sub><b>TypeScript</b></sub>
 </td>
 
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/><br>
 <sub><b>JavaScript</b></sub>
 </td>
 </tr>
 </table>
 
+---
+
 <h3>UI и стили</h3>
 <table>
 <tr>
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" width="40"/><br>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" width="45"/><br>
 <sub><b>Vuetify</b></sub>
 </td>
 
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40"/><br>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="45"/><br>
 <sub><b>SASS</b></sub>
 </td>
 
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/><br>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/><br>
 <sub><b>CSS</b></sub>
 </td>
 </tr>
 </table>
 
-<h3>Инструменты сборки и тестирования</h3>
+---
+
+<h3>Сборка и тестирование</h3>
 <table>
 <tr>
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="40"/><br>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="45"/><br>
 <sub><b>Vite</b></sub>
 </td>
 
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-original.svg" width="40"/><br>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-original.svg" width="45"/><br>
 <sub><b>Vitest</b></sub>
 </td>
+
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/><br>
+<sub><b>Git</b></sub>
+</td>
 </tr>
 </table>
 
-<h3>Интеграции</h3>
+---
+
+<h3>Интеграции и API</h3>
+
+<p>
+Интеграции с внешними сервисами и автоматизация бизнес-процессов
+</p>
+
 <table>
 <tr>
-<td align="center" width="200">
-<sub><b>REST API</b></sub>
+
+<td align="center" width="120">
+<img src="https://github.com/user-attachments/assets/8d146d5c-1c3e-40e5-af64-584c1aadf25f" width="45"/><br>
+<sub><b>Bitrix24</b></sub>
 </td>
 
-<td align="center" width="200">
-<sub><b>Bitrix24 API</b></sub>
+<td align="center" width="120">
+<img src="https://www.unisender.com/favicon.ico" width="45"/><br>
+<sub><b>UniSender</b></sub>
 </td>
+
 </tr>
 </table>
 
+</div>
 <hr>
 
 <h2>Проекты</h2>
