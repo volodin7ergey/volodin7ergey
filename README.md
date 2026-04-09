@@ -21,15 +21,12 @@ Frontend-разработчик с <b>4+ годами коммерческого
 
 <table>
 <tr>
-
 <td align="center" width="120">
 <a href="https://alfabank.ru" target="_blank">
   <img src="media/alfa-bank.icon.png" width="50"><br>
   <sub><b>Альфа-Банк</b></sub>
 </a>
 </td>
-
-
 
 <td align="center" width="120">
 <a href="https://indrive.com" target="_blank">
@@ -92,6 +89,7 @@ Frontend-разработчик с <b>4+ годами коммерческого
 </table>
 
 <h3>Сборка и тестирование</h3>
+
 <table>
 <tr>
 <td align="center" width="110">
