@@ -190,6 +190,11 @@ Frontend-разработчик с <b>4+ годами коммерческого
 <a href="https://github.com/volodin7ergey/bitrix24-data-quality-report" target="_blank">🔗 Перейти к проекту</a>
 </li>
 
+<li>
+<b>Сегментация клиентской базы и формирование аудиторий для рассылок — отбор клиентов из Bitrix24 по заданным условиям и подготовка сегментов для email-рассылок..<br>
+<a href="https://github.com/volodin7ergey/bitrix24-audience-segmentation" target="_blank">🔗 Перейти к проекту</a>
+</li>
+
 <br>
 
 <li>
