@@ -38,7 +38,8 @@ Frontend-разработчик с <b>4+ годами коммерческого
 <td align="center" width="120">
 <a href="https://splat.global" target="_blank">
   <img src="media/splat-global.icon.png" width="50"><br>
-  <sub><b>Splat Global</b></sub>
+  <sub>
+    <b>Splat Global</b></sub>
 </a>
 </td>
 
@@ -219,7 +220,9 @@ Frontend-разработчик с <b>4+ годами коммерческого
 
 <div align="center" style="margin-top: 10px;">
 <a href="https://t.me/volodin7ergey" target="_blank">
+  
 <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="50" title="Telegram">
+
 </a>
 
 <a href="https://vk.com/volodin7ergey" target="_blank">
